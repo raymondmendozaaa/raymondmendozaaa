@@ -1,16 +1,12 @@
-## Hi there 👋
+ # Raymond Mendoza
+ <img src="https://github.com/raymondmendozaaa/raymondmendozaaa/assets/173516507/d86b0264-4a04-43d2-9e3e-c92840e1d01d">
 
-<!--
-**raymondmendozaaa/raymondmendozaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Experience
+ * JavaScript
+ * HTML
+ * CSS
+ * [Java](https://oracle.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. red
+2. blue
+3. green

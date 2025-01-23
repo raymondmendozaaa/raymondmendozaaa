@@ -50,11 +50,11 @@
 
 ### QuickStart Inc. | Software Engineer
 
-_Texas Tech University_ - Software Engineer Bootcamp
+_Texas Tech University_ - Software Engineer Bootcamp (2024)
 - Completed rigorous bootcamp program, successfully passing all required courses and projects, demonstrating strong commitment and technical proficiency in full-stack web development.
 
 ### Amarillo College | Bachelor of Science
-_Major in Computer Science_
+_Major in Computer Science_ (2023)
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/raymond-mendoza-tech/)
